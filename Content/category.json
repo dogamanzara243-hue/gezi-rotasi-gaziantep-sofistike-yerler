@@ -1,57 +1,57 @@
 {
     "title": "Gaziantep Sofistike Yerler Rehberi",
-    "description": "Gaziantep şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Gaziantep şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "gaziantep-sofistike-yerler-1",
-            "title": "Gaziantep Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Gaziantep şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "hisvanya-han-gaziantep",
+            "title": "Hışvahan Butik Otel & Restoran",
+            "category_badge": "Otantik Lüks",
+            "badge_icon": "fa-building-ngo",
+            "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Gaziantep Kalesi’nin dibindeki tarihi Lala Mustafa Paşa Hanı'nda gurme Antep mutfağı ve büyüleyici atmosfer.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/hisvahan",
+            "button_text": "Hışvahan'ı İncele"
         },
         {
-            "id": "gaziantep-sofistike-yerler-2",
-            "title": "Gaziantep Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Gaziantep şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "gaziantep-sofistike-yerler-3",
-            "title": "Gaziantep Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Gaziantep şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "gaziantep-sofistike-yerler-4",
-            "title": "Gaziantep Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
-            "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Gaziantep şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "gaziantep-sofistike-yerler-5",
-            "title": "Gaziantep Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "bayazhan-gaziantep",
+            "title": "Bayazhan Restoran & Avlu Lounge",
+            "category_badge": "Osmanlı Mimarisi & Lezzet",
+            "badge_icon": "fa-champagne-glasses",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Gaziantep şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "1909 yapımı devasa tütün hanının avlusunda, ışıklandırmalar altında canlı müzik ve sofistike gastronomi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/bayazhan",
+            "button_text": "Avluya Uğra"
+        },
+        {
+            "id": "sirvani-konagi-gurme",
+            "title": "Şirvani Konakları Tadım Evi",
+            "category_badge": "Geleneksel Sofistike",
+            "badge_icon": "fa-utensils",
+            "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Tarihi Antep evlerinin zarif avlularında şef dokunuşlarıyla hazırlanan gurme UNESCO lezzet serüveni.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/sirvani-konagi",
+            "button_text": "Tadımı Keşfet"
+        },
+        {
+            "id": "kutnu-dokuma-atolye-showroom",
+            "title": "Kutnu Kumaşı Tasarım & Sanat Galerisi",
+            "category_badge": "Saray Kumaşı & Moda",
+            "badge_icon": "fa-shirt",
+            "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Osmanlı saraylarına özel dokunan 16. yüzyıl Kutnu kumaşının modern modayla buluştuğu yüksek tasarım atölyeleri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/kutnu-dokuma",
+            "button_text": "Atölyeyi İncele"
+        },
+        {
+            "id": "gaziantep-culinary-institute",
+            "title": "MSM (Mutfak Sanatları Merkezi)",
+            "category_badge": "Gastronomi Akademisi",
+            "badge_icon": "fa-bowl-food",
+            "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "UNESCO tescilli Gaziantep mutfağının en otantik reçetelerini şık sunumlarla buluşturan mutfak müzesi ve restoran.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-sofistike-yerler/msm-gaziantep",
+            "button_text": "Menüyü Gör"
         }
     ]
 }
